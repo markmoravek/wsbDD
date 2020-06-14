@@ -1,0 +1,3 @@
+pip install wheel (not sure)
+pip install yfinance
+pip install NASDAQTickerValidator (not sure but kinda sure)
